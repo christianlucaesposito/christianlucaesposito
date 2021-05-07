@@ -8,17 +8,17 @@ Welcome to my github! There is not too much going on now, but I hope to make thi
 ![Alt Text](https://media.giphy.com/media/nJBeWRtzosV4A/giphy.gif)
 
 
-#### Projects
+### Projects
 🐟 [Aquari-Sim](https://github.com/christianlucaesposito/AquariumSim) - An aquarium simulator where users can feed, clean, and watch fish grow 
 
 
-#### Hackathons 
+### Hackathons 
 📺 [Wanna Watch?](https://devpost.com/software/wanna-watch) - A website for finding friends to watch tv shows together 
 
 🏠 [Shelter Finder](https://devpost.com/software/shelter-finder-cjxfw2) - An online app to facilitate homeless to find shelters around the city
 
 
-#### How to reach me: 📫
+### How to reach me: 📫
 LinkedIn: [Christian's LinkedIn Profile](https://www.linkedin.com/in/christianlucaesposito/)
 
 Email: chrisl97@students.ubc.ca
