@@ -1,6 +1,6 @@
 ## Hello 👋 I am Christian Luca Esposito (He/Him)
 
-I am Christian, a first generation bachelor graduate in psychology, and a student in computer science at UBC ✨
+I'm a first generation bachelor graduate in psychology, and a student in computer science at UBC ✨
 I got introduced to coding at my job as a researcher at UBC! I found programming to be quite fun, and now I am devoting my time to learn more!
 
 Welcome to my github! There is not too much going on now, but I hope to make this page much more exciting with time 🌼🌸
