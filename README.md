@@ -9,7 +9,9 @@ Welcome to my github! There is not too much going on now, but I hope to make thi
 
 
 ### Projects
-🐟 [Aquari-Sim](https://github.com/christianlucaesposito/AquariumSim) - An aquarium simulator where users can feed, clean, and watch fish grow 
+🐟 [Aquari-Sim](https://github.com/christianlucaesposito/AquariumSim) - An aquarium simulator where users can feed, clean, and watch fish grow
+
+🌱 [Plant NoteKeeping](https://plantkeeping.herokuapp.com/) - An organizer to keep track when plants were last watered 
 
 
 ### Hackathons 
